@@ -13,7 +13,7 @@
       <link>http://localhost:1313/practica_hugo/sobre_mi/info/</link>
       <pubDate>Tue, 26 Nov 2024 18:05:00 +0100</pubDate>
       <guid>http://localhost:1313/practica_hugo/sobre_mi/info/</guid>
-      <description></description>
+      <description>&lt;h2 id=&#34;informacion-sobre-el-escritor&#34;&gt;INFORMACION SOBRE EL ESCRITOR&lt;/h2&gt;&#xA;&lt;p&gt;Estudiante casi jubilado de 24 años. Para verme la cara, dirigase al apartado fotos :)&lt;/p&gt;&#xA;&lt;p&gt;Ya que estoy voy a anotar aquí los errores que he tenido a lo largo del proyecto:&#xA;Intentar bajarme linux para trabajar aunque no me hacía falta e intentar configurar el wsl durante horas y horas (no es lo mio).&#xA;Empezar el proyecto desde la consola de ubuntu del wsl pero guardarlo en un repositorio local en windows.&#xA;Marearme con docker hasta recordar que no hace falta para hugo sino que es en php.&#xA;Empezar muy tarde el proyecto.&#xA;El despliegue no lo supe hacer cuando estábamos dando hugo hace 3 años y la verdad no tengo tiempo de investigarlo ahora.&#xA;Me salió algun error/warning al intentar pasar los ficheros de ubuntu a windows de &amp;ldquo;los ficheros lf se cambiarán a crlf&amp;rdquo; que en principio no me ha dado problemas&#xA;pero lo comento.&lt;/p&gt;&#xA;</description>
     </item>
     <item>
       <title>Carousel</title>
