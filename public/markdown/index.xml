@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Markdown on MI PRACTICA HUGO</title>
+    <link>http://localhost:54794/practica_hugo/markdown/</link>
+    <description>Recent content in Markdown on MI PRACTICA HUGO</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 26 Nov 2024 18:06:03 +0100</lastBuildDate>
+      <atom:link href="http://localhost:54794/practica_hugo/markdown/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Funciones</title>
+      <link>http://localhost:54794/practica_hugo/markdown/funciones/</link>
+      <pubDate>Fri, 04 Oct 2024 14:02:30 +0200</pubDate>
+      <guid>http://localhost:54794/practica_hugo/markdown/funciones/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Avanzado</title>
+      <link>http://localhost:54794/practica_hugo/markdown/avanzado/</link>
+      <pubDate>Fri, 04 Oct 2024 14:02:20 +0200</pubDate>
+      <guid>http://localhost:54794/practica_hugo/markdown/avanzado/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Basico</title>
+      <link>http://localhost:54794/practica_hugo/markdown/basico/</link>
+      <pubDate>Fri, 04 Oct 2024 14:02:12 +0200</pubDate>
+      <guid>http://localhost:54794/practica_hugo/markdown/basico/</guid>
+      <description>&lt;h3 id=&#34;basico&#34;&gt;Basico&lt;/h3&gt;&#xA;&lt;p&gt;Aquí explicaremos lo más básico del lenguaje de marcado &amp;ldquo;markdown&amp;rdquo;.&lt;/p&gt;&#xA;</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Fotos on MI PRACTICA HUGO</title>
+    <link>http://localhost:54794/practica_hugo/fotos/</link>
+    <description>Recent content in Fotos on MI PRACTICA HUGO</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 26 Nov 2024 18:58:50 +0100</lastBuildDate>
+      <atom:link href="http://localhost:54794/practica_hugo/fotos/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Carousel</title>
+      <link>http://localhost:54794/practica_hugo/fotos/carousel/</link>
+      <pubDate>Tue, 26 Nov 2024 18:04:18 +0100</pubDate>
+      <guid>http://localhost:54794/practica_hugo/fotos/carousel/</guid>
+      <description>&lt;h2 id=&#34;fotos&#34;&gt;fotos&lt;/h2&gt;&#xA;&lt;p&gt;fotos&lt;/p&gt;&#xA;</description>
+    </item>
+  </channel>
+</rss>

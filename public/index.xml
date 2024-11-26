@@ -1,19 +1,47 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Ejemplo Site</title>
+    <title>MI PRACTICA HUGO</title>
     <link>http://localhost:1313/practica_hugo/</link>
-    <description>Recent content on Ejemplo Site</description>
+    <description>Recent content on MI PRACTICA HUGO</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 25 Nov 2024 23:19:40 +0100</lastBuildDate>
+    <lastBuildDate>Tue, 26 Nov 2024 18:05:48 +0100</lastBuildDate>
       <atom:link href="http://localhost:1313/practica_hugo/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Prueba</title>
-      <link>http://localhost:1313/practica_hugo/prueba/</link>
-      <pubDate>Mon, 25 Nov 2024 23:19:40 +0100</pubDate>
-      <guid>http://localhost:1313/practica_hugo/prueba/</guid>
+      <title>Info</title>
+      <link>http://localhost:1313/practica_hugo/sobre_mi/info/</link>
+      <pubDate>Tue, 26 Nov 2024 18:05:00 +0100</pubDate>
+      <guid>http://localhost:1313/practica_hugo/sobre_mi/info/</guid>
       <description></description>
+    </item>
+    <item>
+      <title>Carousel</title>
+      <link>http://localhost:1313/practica_hugo/fotos/carousel/</link>
+      <pubDate>Tue, 26 Nov 2024 18:04:18 +0100</pubDate>
+      <guid>http://localhost:1313/practica_hugo/fotos/carousel/</guid>
+      <description>&lt;h2 id=&#34;fotos&#34;&gt;fotos&lt;/h2&gt;&#xA;&lt;p&gt;fotos&lt;/p&gt;&#xA;</description>
+    </item>
+    <item>
+      <title>Funciones</title>
+      <link>http://localhost:1313/practica_hugo/markdown/funciones/</link>
+      <pubDate>Fri, 04 Oct 2024 14:02:30 +0200</pubDate>
+      <guid>http://localhost:1313/practica_hugo/markdown/funciones/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Avanzado</title>
+      <link>http://localhost:1313/practica_hugo/markdown/avanzado/</link>
+      <pubDate>Fri, 04 Oct 2024 14:02:20 +0200</pubDate>
+      <guid>http://localhost:1313/practica_hugo/markdown/avanzado/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Basico</title>
+      <link>http://localhost:1313/practica_hugo/markdown/basico/</link>
+      <pubDate>Fri, 04 Oct 2024 14:02:12 +0200</pubDate>
+      <guid>http://localhost:1313/practica_hugo/markdown/basico/</guid>
+      <description>&lt;h3 id=&#34;basico&#34;&gt;Basico&lt;/h3&gt;&#xA;&lt;p&gt;Aquí explicaremos lo más básico del lenguaje de marcado &amp;ldquo;markdown&amp;rdquo;.&lt;/p&gt;&#xA;</description>
     </item>
   </channel>
 </rss>

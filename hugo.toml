@@ -1,5 +1,8 @@
-baseURL = 'https://migcay.github.io/practica_hugo/'
+    baseURL = 'https://migcay.github.io/practica_hugo/'
 languageCode = 'en-us'
-title = 'Ejemplo Site'
+title = 'MI PRACTICA HUGO'
 
 theme= "zen"
+sectionPagesMenu = "main"
+[params]
+  mainSections = ["sobre mi", "Markdown", "Markdown", "tv"]
