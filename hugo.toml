@@ -5,4 +5,9 @@ title = 'MI PRACTICA HUGO'
 theme= "zen"
 sectionPagesMenu = "main"
 [params]
-  mainSections = ["sobre mi", "Markdown", "Markdown", "tv"]
+  mainSections = ["sobre mi", "Markdown", "Markdown"]
+
+  [markup]
+    [markup.goldmark]
+      [markup.goldmark.renderer]
+        unsafe = true

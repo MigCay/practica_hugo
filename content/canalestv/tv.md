@@ -6,6 +6,6 @@ weight = 10
 layout = "tv"
 +++
 
-# Listado de canales
+# Haz click en el boton Tv
 
 

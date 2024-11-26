@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Sobre mi on MI PRACTICA HUGO</title>
-    <link>http://localhost:54794/practica_hugo/sobre_mi/</link>
+    <link>http://localhost:1313/practica_hugo/sobre_mi/</link>
     <description>Recent content in Sobre mi on MI PRACTICA HUGO</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 26 Nov 2024 18:06:03 +0100</lastBuildDate>
-      <atom:link href="http://localhost:54794/practica_hugo/sobre_mi/index.xml" rel="self" type="application/rss+xml" />
+      <atom:link href="http://localhost:1313/practica_hugo/sobre_mi/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Info</title>
-      <link>http://localhost:54794/practica_hugo/sobre_mi/info/</link>
+      <link>http://localhost:1313/practica_hugo/sobre_mi/info/</link>
       <pubDate>Tue, 26 Nov 2024 18:05:00 +0100</pubDate>
-      <guid>http://localhost:54794/practica_hugo/sobre_mi/info/</guid>
+      <guid>http://localhost:1313/practica_hugo/sobre_mi/info/</guid>
       <description></description>
     </item>
   </channel>
